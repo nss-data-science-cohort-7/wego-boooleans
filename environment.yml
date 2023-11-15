@@ -1,0 +1,9 @@
+name: geospatial_ds
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyter=1.0.0
+  - geopandas=0.14.0
+  - folium=0.14.0
+
